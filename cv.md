@@ -6,7 +6,7 @@
 
 ## 📧 Contacto
 
-- **Email:** dbarea2303@gmail.com
+- **Email:** dbareagimeno@icloud.com 
 - **LinkedIn:** [linkedin.com/in/diego-bareagimeno-772323248](https://www.linkedin.com/in/diego-bareagimeno-772323248)
 - **Ubicación:** Valencia, España
 

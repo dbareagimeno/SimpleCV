@@ -13,6 +13,8 @@ __pycache__/
 *.swp
 *.swo
 *~
+CLAUDE.md
+.claude
 
 # Environment files (future-proofing)
 .env
