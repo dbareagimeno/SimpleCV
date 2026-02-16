@@ -148,8 +148,27 @@ Si quieres publicarlo online:
 - Ajusta márgenes en opciones de impresión
 - Prueba la herramienta de "Descargar PDF" del botón superior
 
+## 🌍 Despliegue / Deployment
+
+### GitHub Pages
+Este CV está desplegado automáticamente en GitHub Pages:
+🔗 **[https://dbareagimeno.github.io/SimpleCV/](https://dbareagimeno.github.io/SimpleCV/)**
+
+Cada push a la rama `main` actualiza automáticamente el sitio en 1-3 minutos.
+
+### Actualizar el CV
+1. Edita `cv.md` con tu contenido
+2. Commit y push:
+   ```bash
+   git add cv.md
+   git commit -m "Actualizar experiencia/skills/etc"
+   git push
+   ```
+3. Espera 1-3 minutos para que GitHub Pages se actualice
+4. Verifica los cambios en https://dbareagimeno.github.io/SimpleCV/
+
 ## 📧 Contacto
 
-Diego Barea Gimeno  
-dbarea2303@gmail.com  
+Diego Barea Gimeno
+dbarea2303@gmail.com
 [LinkedIn](https://www.linkedin.com/in/diego-bareagimeno-772323248)
