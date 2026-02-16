@@ -9,6 +9,7 @@
 - **Email:** dbareagimeno@icloud.com 
 - **LinkedIn:** [linkedin.com/in/diego-bareagimeno-772323248](https://www.linkedin.com/in/diego-bareagimeno-772323248)
 - **Ubicación:** Valencia, España
+- **Teléfono:** +34 635 34 29 78
 
 ---
 
